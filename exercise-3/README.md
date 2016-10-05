@@ -9,3 +9,14 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+
+#Cd
+
+when you are located at User at first,
+"cd Desktop" will change the directory to the Desktop folder
+if "cd Recycle Bin," it will change the directory from Desktop to Recycle Bin. 
+Thus, cd stands for change directory which navigate you from folder to different folder in your machine. 
+
+
+for example. If I write " cd Desktop," the code will navigate me from user to Desktop
